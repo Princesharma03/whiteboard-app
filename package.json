@@ -1,6 +1,5 @@
 {
   "name": "whiteboard-collab",
-  "proxy": "https://evening-dusk-32043.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
