@@ -24,7 +24,7 @@ const Container=()=>{
     }
     
     const myFunction=() => {
-        navigator.clipboard.writeText("https://evening-dusk-32043.herokuapp.com/whiteboard/"+prams.room);
+        navigator.clipboard.writeText("https://limitless-oasis-67091.herokuapp.com/whiteboard/"+prams.room);
     }
 
 

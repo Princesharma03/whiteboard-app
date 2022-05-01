@@ -27,7 +27,7 @@ const Welcome=()=>{
                 </div >
 
             <input className='submitCss' onClick={()=>{
-                window.location.href = `https://evening-dusk-32043.herokuapp.com/whiteboard/${input}`;
+                window.location.href = `https://limitless-oasis-67091.herokuapp.com/whiteboard/${input}`;
 
             }}  value="Create OR Join" />
                 
