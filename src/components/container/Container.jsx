@@ -24,7 +24,7 @@ const Container=()=>{
     }
     
     const myFunction=() => {
-        navigator.clipboard.writeText("https://whiteboard-app-green.vercel.app/"+prams.room);
+        navigator.clipboard.writeText("https://whiteboard-app-green.vercel.app/whiteboard/"+prams.room);
     }
 
 
