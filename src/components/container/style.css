@@ -1,0 +1,46 @@
+.container{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: #8E0E00;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.color-picker-container{
+    text-align: center;
+    display: inline;
+    color: white;
+}
+.brushsize-container{
+    display: inline;
+    color: white;
+    margin-left: 12px;
+}
+.tools-section{
+    text-align: center;
+}
+
+.board-container{
+    width:90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 1%;
+    background: white;
+}
+
+.shareDiv{
+    display: inline;
+    margin-left: 3%;
+}
+
+.sharebtn{
+    background:none;
+    align-items: center;
+    color:white;
+    font-size: 30px;
+    border:none;
+    margin-top:8px;
+    cursor: pointer;
+}

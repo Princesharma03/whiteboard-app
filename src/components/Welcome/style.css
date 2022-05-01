@@ -1,0 +1,33 @@
+
+body{
+    background: #eee;
+
+}
+.welcomeScreen{
+    margin:100px;
+}
+.blockDic{
+    display: block;
+}
+.inputCss{
+    padding: 15px;
+    margin-bottom: 10px;
+    width: 299px;
+    border-radius: 15px;
+    background: #eee;
+}
+.submitCss{
+    background-color: #000000;
+    border: none;
+    color: white;
+
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: 22px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
