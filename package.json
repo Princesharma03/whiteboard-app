@@ -1,5 +1,6 @@
 {
   "name": "whiteboard-collab",
+  "proxy": "https://limitless-oasis-67091.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

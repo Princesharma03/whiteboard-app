@@ -6,7 +6,7 @@ import { Download } from "react-bootstrap-icons";
 class Board extends React.Component {
  
     
-    socket = io.connect("https://limitless-oasis-67091.herokuapp.com");
+    socket = io.connect("https://whiteboard-app-green.vercel.app/");
     room;
     timeout;
     ctx;
